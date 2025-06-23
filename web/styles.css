@@ -1,0 +1,12 @@
+body {
+  background-image: url('https://sun9-61.userapi.com/impf/c840133/v840133472/78ae1/q9RHcMDtRzA.jpg?size=1440x2160&quality=96&sign=aef3a211167bd696e4ef200116fd1ef1&type=album');
+  background-size: 100vw 100vh;
+  background-repeat: no-repeat;
+}
+
+#positioned {
+  // display: none;
+  position: relative;
+  top: 33vh;
+  left: 41vw;
+}
